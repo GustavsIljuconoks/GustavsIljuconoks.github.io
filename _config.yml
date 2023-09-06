@@ -22,8 +22,8 @@ title: kerri's blog
 email: gustavsiljuconoks@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is kerri's (a.k.a gustavsiljuconoks) personal blog website.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /kerri-blog
+url: https://gustavsiljuconoks.github.io/kerri-blog/
 github_username:  gustavsiljuconoks
 
 # Build settings
